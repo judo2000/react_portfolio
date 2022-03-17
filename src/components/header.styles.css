@@ -1,0 +1,43 @@
+.header {
+  /* I learned to do the backgrand gradient over the image from 
+      Advanced CSS and Sass: Flexbox, Grid, Annimation and More! - by Jonas Schmedtmann at https://www.udemy.com/ */
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(123, 159, 172, 0.5),
+      /* rgba(12, 186, 186, 0.5),  */ rgba(123, 109, 141, 0.5)
+    ),
+    /* rgba(56, 0, 54, 0.5)), */ url(/public/img/code.jpg);
+  background-size: cover;
+  background-position: top;
+  padding: 60px;
+}
+
+.header_img img {
+  width: 80%;
+  border-radius: 100%;
+}
+
+.centered {
+  text-align: center;
+}
+
+.header_main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+
+.display_1 {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.1;
+  color: #fff;
+}
+
+.display_2 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.1;
+  color: #fff;
+}
