@@ -1,0 +1,31 @@
+.about_me {
+  padding-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about_section .about_img {
+  margin-bottom: 2rem;
+  margin-left: 10px;
+}
+
+.about_info .box_shadow_full {
+  padding-bottom: 4rem;
+}
+
+.about_info .about_img {
+  margin-bottom: 2rem;
+}
+
+.about_info .about_img img {
+  margin-left: 10px;
+}
+
+.skills {
+  font-size: 1.3rem;
+}
+
+.skill_info {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

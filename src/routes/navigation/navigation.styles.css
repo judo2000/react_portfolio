@@ -1,0 +1,35 @@
+/* Override the bootstrap navbar color settings */
+#navbar {
+  overflow: hidden;
+}
+
+.nav_style {
+  background-color: #3a606e;
+  color: white;
+  font-weight: 800;
+}
+
+.nav_style a {
+  color: white;
+  font-weight: 800;
+  font-size: 1.4rem;
+}
+
+.nav_style .nav-item {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.nav_style a:hover {
+  background-color: rgba(12, 186, 186, 0.5);
+  color: white;
+}
+
+.nav_style .active a {
+  color: #a5c4d4;
+}
+
+.active {
+  text-decoration: underline;
+  color: #7b6d8d;
+}

@@ -1,0 +1,22 @@
+.work_box {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background-color: #fff;
+}
+
+.work_box:hover img {
+  transform: scale(1.3);
+}
+
+.work_img_box {
+  display: block;
+  overflow: hidden;
+}
+
+.work_img_box img {
+  transition: all 1s;
+}
+
+.work_img {
+  height: 200px;
+}
