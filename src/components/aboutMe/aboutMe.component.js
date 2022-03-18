@@ -1,4 +1,5 @@
 import { Outlet } from "react-router-dom";
+import "./aboutMe.styles.css";
 const AboutMe = () => {
   return (
     <div>
@@ -14,7 +15,7 @@ const AboutMe = () => {
                 <div className="row">
                   <div className="col-md-6">
                     <div className="row">
-                      <div className="col-sm-6 col-md-5">
+                      <div className="col-sm-6 col-md-4">
                         <div className="about_img">
                           <img
                             src="/img/stephen_moore_London_2012_small.png"
@@ -23,7 +24,7 @@ const AboutMe = () => {
                           />
                         </div>
                       </div>
-                      <div className="col-sm-6 col-md-7">
+                      <div className="col-sm-6 col-md-8">
                         <div className="about_info">
                           <p>
                             <span className="title_small pe-3">Name: </span>
@@ -44,7 +45,7 @@ const AboutMe = () => {
                           <p>
                             <span className="title_small pe-3">My Resume:</span>
                             <a
-                              href="assets/files/stephen_moore_resume.pdf"
+                              href="/files/stephen_scott_moore_resume.pdf"
                               target="_blank"
                             >
                               <i className="far fa-file-pdf fa-2x"></i>

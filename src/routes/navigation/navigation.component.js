@@ -8,7 +8,7 @@ import "./navigation.styles.css";
 const Navigation = () => {
   return (
     <Fragment>
-      <Navbar bg="dark" variant="dark" sticky="top">
+      <Nav class="navbar navbar-expand-lg nav_style sticky-top">
         <Container>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
@@ -16,7 +16,7 @@ const Navigation = () => {
             <Nav.Link href="#pricing">Pricing</Nav.Link>
           </Nav>
         </Container>
-      </Navbar>
+      </Nav>
       <Header />
       <Outlet />
     </Fragment>
