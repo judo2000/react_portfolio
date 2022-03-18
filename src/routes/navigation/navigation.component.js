@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import { Outlet } from "react-router-dom";
-import { Container, Navbar, Nav } from "react-bootstrap";
+import { Container, Nav } from "react-bootstrap";
 
 import Header from "../../components/header/header.component";
 import "./navigation.styles.css";
