@@ -28,7 +28,7 @@ const Navigation = () => {
           >
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/work">My Work</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
+            <Nav.Link href="/contact">Contact Me</Nav.Link>
           </Nav>
         </Container>
       </Nav>
