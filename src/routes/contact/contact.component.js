@@ -4,7 +4,7 @@ const Contact = () => {
       <div className="container">
         <div className="row">
           <div className="col-sm-12 text-center">
-            <span className="title text-white">Contact Me</span>
+            <h3 className="title">Contact Me</h3>
           </div>
         </div>
         <div className="row justify-content-center">
@@ -86,7 +86,7 @@ const Contact = () => {
 
                   <p className="text-dark">
                     <a
-                      href="https://www.linkedin.com/in/stephen-moore-mcis-b94bab18/"
+                      href="https://www.linkedin.com/in/stephen-moore-ply-mcis-b94bab18/"
                       target="_blank"
                       className="pe-3"
                     >
