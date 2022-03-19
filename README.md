@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+<div id="top"></div>
+    <h3 align="center">Stephen Scott Moore React Portfolio</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## License
 
-## Available Scripts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+This is a single-page application built with React.js to conditionally render content onto the page. The portfolio initially renders the "About Me" component with links to display "My Work" and "Contact Me".  
+[![!Stephen Moore Portfolio](images/project_screenshot1.png)]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [License](#license)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Testing](#testing)
+- [Questions](#questions)
 
-### `npm test`
+  <p align="right">(<a href="#top">back to top</a>)</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation Instructions
 
-### `npm run build`
+  <ul><li>Clone this repository by entering the following command from the command line: <code>https://github.com/judo2000/react_portfolio.git</code</li><li>Change (cd) into the newly created directory</li><li>From the command line enter: <code>npm i</code> to install all necessary packages</li><li>From the command line enter: <code>npm run start</code> to run the application</li>
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
+  
+  ## Usage
+  [![!Stephen Moore Portfolio](images/project_screenshot2.png)]
+  This application will allow user to view an about me page, my work page with images and links to project repositories and live pages and a contact me page when they can fill out a contat me form and send an email me me with Emailjs.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![!Stephen Moore Portfolio](images/project_screenshot2.png)]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <p align="right">(<a href="#top">back to top</a>)</p>
+  
+    
+  ## Contributors
+  None
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <p align="right">(<a href="#top">back to top</a>)</p>
 
-### `npm run eject`
+## Testing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+There are not tests for this application.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <p align="right">(<a href="#top">back to top</a>)</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Questions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Github: [judo2000](https://github.com/judo2000)<br/>
 
-## Learn More
+Email: [judo2000@comcast.net](judo2000@comcast.net)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <p align="right">(<a href="#top">back to top</a>)</p>

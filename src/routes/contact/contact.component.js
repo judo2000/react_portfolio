@@ -1,6 +1,8 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 
+import Icons from "../../components/icons/icons.component";
+
 const Contact = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -134,19 +136,8 @@ const Contact = () => {
                     <i className="fas fa-mobile-alt fa-lg pe-3"></i>
                     720.500.2644
                   </p>
+                  <Icons />
 
-                  <p className="text-dark">
-                    <a
-                      href="https://www.linkedin.com/in/stephen-moore-ply-mcis-b94bab18/"
-                      target="_blank"
-                      className="pe-3"
-                    >
-                      <i className="fab fa-linkedin fa-2x"></i>
-                    </a>
-                    <a href="https://github.com/judo2000" target="_blank">
-                      <i className="fab fa-github fa-2x"></i>
-                    </a>
-                  </p>
                   <p className="text-dark"></p>
                 </div>
               </div>
