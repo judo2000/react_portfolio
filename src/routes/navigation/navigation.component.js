@@ -8,10 +8,10 @@ import "./navigation.styles.css";
 const Navigation = () => {
   return (
     <Fragment>
-      <Nav class="navbar navbar-expand-md nav_style sticky-top">
-        <Container class="container">
+      <Nav className="navbar navbar-expand-md nav_style sticky-top">
+        <Container className="container">
           <button
-            class="navbar-toggler navbar-dark"
+            className="navbar-toggler navbar-dark"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
@@ -19,13 +19,9 @@ const Navigation = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon white-text"></span>
+            <span className="navbar-toggler-icon white-text"></span>
           </button>
-          <Nav
-            className="me-auto"
-            class="collapse navbar-collapse"
-            id="navbarSupportedContent"
-          >
+          <Nav className="collapse navbar-collapse" id="navbarSupportedContent">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/work">My Work</Nav.Link>
             <Nav.Link href="/contact">Contact Me</Nav.Link>
