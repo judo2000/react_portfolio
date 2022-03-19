@@ -25,7 +25,7 @@ This is a single-page application built with React.js to conditionally render co
 
 ## Installation Instructions
 
-  <ul><li>Clone this repository by entering the following command from the command line: <code>https://github.com/judo2000/react_portfolio.git</code</li><li>Change (cd) into the newly created directory</li><li>From the command line enter: <code>npm i</code> to install all necessary packages</li><li>From the command line enter: <code>npm run start</code> to run the application</li>
+  <ul><li>Clone this repository by entering the following command from the command line: <code>https://github.com/judo2000/react_portfolio.git</code></li><li>Change (cd) into the newly created directory</li><li>From the command line enter: <code>npm i</code> to install all necessary packages</li><li>From the command line enter: <code>npm run start</code> to run the application</li>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
   
