@@ -14,7 +14,7 @@ const Contact = () => {
                 <div className="col-sm-12 col-md-6">
                   <div className="title_small pb-2">Send Me a Message:</div>
                   <form
-                    action="mailto:someone@example.com"
+                    action="mailto:judo2000@comcast.net"
                     method="post"
                     enctype="text/plain"
                   >
