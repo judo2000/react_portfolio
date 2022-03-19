@@ -7,8 +7,11 @@
 
 ## Description
 
-This is a single-page application built with React.js to conditionally render content onto the page. The portfolio initially renders the "About Me" component with links to display "My Work" and "Contact Me".  
+This is a single-page application built with React.js to conditionally render content onto the page. The portfolio initially renders the "About Me" component with links to display "My Work" and "Contact Me".
+
 ![!Stephen Moore Portfolio](img/project_screenshot1.png)
+
+[View the portfolio on Heroku](https://judo2000-react-portfolio.herokuapp.com/)
 
 ## Table of Contents
 
