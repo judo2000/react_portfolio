@@ -69,7 +69,7 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="http://judo2000-pms.herokuapp.com/"
+                      href="https://judo2000-gigabytes.herokuapp.com/"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -117,13 +117,19 @@ const MyWork = () => {
                 </div>
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
-                    <div className="work_img_box">
-                      <img
-                        src="/img/weather_dashboard.png"
-                        className="card-img-top img-fluid work_img"
-                        alt="Weather Dashboard App"
-                      />
-                    </div>
+                    <a
+                      href="https://github.com/judo2000/weather_dashboard"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <div className="work_img_box">
+                        <img
+                          src="/img/weather_dashboard.png"
+                          className="card-img-top img-fluid work_img"
+                          alt="Weather Dashboard App"
+                        />
+                      </div>
+                    </a>
                     <div className="card-body">
                       <span className="title_small">Weather Dashboard</span>
                       <br />
@@ -158,13 +164,19 @@ const MyWork = () => {
                 </div>
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
-                    <div className="work_img_box">
-                      <img
-                        src="/img/the_judo_quiz.png"
-                        className="card-img-top img-fluid work_img"
-                        alt="The Judo Quiz app"
-                      />
-                    </div>
+                    <a
+                      href="https://judo2000.github.io/Judo-Quiz/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <div className="work_img_box">
+                        <img
+                          src="/img/the_judo_quiz.png"
+                          className="card-img-top img-fluid work_img"
+                          alt="The Judo Quiz app"
+                        />
+                      </div>
+                    </a>
                     <div className="card-body">
                       <span className="title_small">The Judo Quiz</span>
                       <br />
@@ -246,7 +258,7 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-lg-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="https://github.com/judo2000/day_planner"
+                      href="https://judo2000.github.io/day_planner/"
                       target="_blank"
                       rel="noreferrer"
                     >
