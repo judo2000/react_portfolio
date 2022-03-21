@@ -16,16 +16,16 @@ const MyWork = () => {
           <div className="row">
             <div className="col-12">
               <div className="row justify-content-center">
-                <div className="card col-sm-12 col-md-4 col-lg-3 mx-md-4 my-4 py-1">
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
                       href="http://judo2000-pms.herokuapp.com/"
                       target="_blank"
-                      rel="noReferrer"
+                      rel="noreferrer"
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/project_management.png"
+                          src="./assets/img/project_management.png"
                           className="card-img-top img-fluid work_img"
                           alt="Project Management System App"
                         />
@@ -41,10 +41,15 @@ const MyWork = () => {
                         JavaScript,
                       </span>
                       <p>
+                        A full stack project management system that allows uses
+                        to create projects, add and remove tasks from the
+                        project and make tasks as complete.
+                      </p>
+                      <p>
                         <a
                           href="https://github.com/judo2000/proManagementSyst"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Github Repository
                         </a>
@@ -53,7 +58,7 @@ const MyWork = () => {
                         <a
                           href="http://judo2000-pms.herokuapp.com/"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Live Project
                         </a>
@@ -61,16 +66,16 @@ const MyWork = () => {
                     </div>
                   </div>
                 </div>
-                <div className="card col-sm-12 col-md-4 col-lg-3 mx-md-4 my-4 py-1">
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
                       href="http://judo2000-pms.herokuapp.com/"
                       target="_blank"
-                      rel="noReferrer"
+                      rel="noreferrer"
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/gigabytes.png"
+                          src="./assets/img/gigabytes.png"
                           className="card-img-top img-fluid work_img"
                           alt="Project Management System App"
                         />
@@ -84,10 +89,16 @@ const MyWork = () => {
                         JavaScript,
                       </span>
                       <p>
+                        About Ful stack CMS -styled tech blog for developers to
+                        post articles about technology. Users can edit and
+                        delete their own articles as well as comment on other
+                        users' posts.
+                      </p>
+                      <p>
                         <a
                           href="https://github.com/judo2000/GigaBytes_tech_blog"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Github Repository
                         </a>
@@ -96,7 +107,7 @@ const MyWork = () => {
                         <a
                           href="http://judo2000-gigabytes.herokuapp.com/"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Live Project
                         </a>
@@ -104,11 +115,11 @@ const MyWork = () => {
                     </div>
                   </div>
                 </div>
-                <div className="card col-sm-12 col-md-4 col-lg-3 mx-md-4 my-4 py-1">
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <div className="work_img_box">
                       <img
-                        src="/img/weather_dashboard.png"
+                        src="./assets/img/weather_dashboard.png"
                         className="card-img-top img-fluid work_img"
                         alt="Weather Dashboard App"
                       />
@@ -120,10 +131,15 @@ const MyWork = () => {
                         HTML, Bootstrap, JavaScript, jQuery
                       </span>
                       <p>
+                        An app allows users to view a 5-day forecast using the
+                        OpenWeatherMap api. The app also uses local storage to
+                        save searched cities.
+                      </p>
+                      <p>
                         <a
                           href="https://github.com/judo2000/week6_weather_dashboard"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Github Repository
                         </a>
@@ -132,7 +148,7 @@ const MyWork = () => {
                         <a
                           href="https://judo2000.github.io/week6_weather_dashboard/"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Live Project
                         </a>
@@ -140,11 +156,11 @@ const MyWork = () => {
                     </div>
                   </div>
                 </div>
-                <div className="card col-sm-12 col-md-4 col-lg-3 mx-md-4 my-4 py-1">
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <div className="work_img_box">
                       <img
-                        src="/img/the_judo_quiz.png"
+                        src="./assets/img/the_judo_quiz.png"
                         className="card-img-top img-fluid work_img"
                         alt="The Judo Quiz app"
                       />
@@ -156,10 +172,15 @@ const MyWork = () => {
                         HTML, CSS/Bootstrap, JavaScript, jQuery
                       </span>
                       <p>
+                        A quiz app built with JavaScript that gives users a set
+                        amount of time to answer questions and removes 10
+                        seconds with ever wrong answer.
+                      </p>
+                      <p>
                         <a
                           href="https://github.com/judo2000/week4-quiz"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Github Repository
                         </a>
@@ -168,7 +189,7 @@ const MyWork = () => {
                         <a
                           href="https://judo2000.github.io/week4-quiz/"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Live Project
                         </a>
@@ -177,16 +198,16 @@ const MyWork = () => {
                   </div>
                 </div>
 
-                <div className="card col-sm-12 col-md-4 col-lg-3 mx-md-4 my-4 py-1">
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
                       href="https://judo2000.github.io/week3-password-generator/"
                       target="_blank"
-                      rel="noReferrer"
+                      rel="noreferrer"
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/password_generator.png"
+                          src="./assets/img/password_generator.png"
                           className="card-img-top img-fluid work_img"
                           alt="Crypto & Cocktails App"
                         />
@@ -197,10 +218,15 @@ const MyWork = () => {
                       <br />
                       <span className="title_small_sub">HTML, JavaScript</span>
                       <p>
+                        A JavaScript password generator that allows users to
+                        pick characters types and length, then returns a random
+                        password.
+                      </p>
+                      <p>
                         <a
                           href="https://github.com/judo2000/week3-password-generator"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Github Repository
                         </a>
@@ -209,7 +235,7 @@ const MyWork = () => {
                         <a
                           href="https://judo2000.github.io/week3-password-generator/"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Live Project
                         </a>
@@ -217,16 +243,16 @@ const MyWork = () => {
                     </div>
                   </div>
                 </div>
-                <div className="card col-sm-12 col-md-4 col-lg-3 mx-md-4 my-4 py-1">
+                <div className="card col-sm-12 col-lg-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
                       href="https://judo2000.github.io/week5_day_planner/"
                       target="_blank"
-                      rel="noReferrer"
+                      rel="noreferrer"
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/day_planner.png"
+                          src="./assets/img/day_planner.png"
                           className="card-img-top img-fluid work_img"
                           alt="Crypto & Cocktails App"
                         />
@@ -239,10 +265,16 @@ const MyWork = () => {
                         HTML, CSS/Bootstrap, JavaScript, jQuery
                       </span>
                       <p>
+                        {" "}
+                        A JavaScript app that uses the moments.js API to display
+                        the hours of the current day and uses local storage to
+                        save a user's daily schedule.
+                      </p>
+                      <p>
                         <a
                           href="https://github.com/judo2000/week5_day_planner"
-                          rel="noReferrer"
                           target="_blank"
+                          rel="noreferrer"
                         >
                           Github Repository
                         </a>
@@ -251,7 +283,7 @@ const MyWork = () => {
                         <a
                           href="https://judo2000.github.io/week5_day_planner/"
                           target="_blank"
-                          rel="noReferrer"
+                          rel="noreferrer"
                         >
                           Live Project
                         </a>
