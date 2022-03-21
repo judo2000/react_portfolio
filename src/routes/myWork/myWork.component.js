@@ -118,7 +118,7 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="https://github.com/judo2000/weather_dashboard"
+                      href="https://judo2000.github.io/weather_dashboard/"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -221,7 +221,7 @@ const MyWork = () => {
                         <img
                           src="/img/password_generator.png"
                           className="card-img-top img-fluid work_img"
-                          alt="Crypto & Cocktails App"
+                          alt="Password Generator"
                         />
                       </div>
                     </a>
@@ -266,7 +266,7 @@ const MyWork = () => {
                         <img
                           src="/img/day_planner.png"
                           className="card-img-top img-fluid work_img"
-                          alt="Crypto & Cocktails App"
+                          alt="Day Planner"
                         />
                       </div>
                     </a>
