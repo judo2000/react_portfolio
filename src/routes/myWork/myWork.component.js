@@ -25,7 +25,7 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
-                          src="./assets/img/project_management.png"
+                          src="/img/project_management.png"
                           className="card-img-top img-fluid work_img"
                           alt="Project Management System App"
                         />
@@ -75,7 +75,7 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
-                          src="./assets/img/gigabytes.png"
+                          src="/img/gigabytes.png"
                           className="card-img-top img-fluid work_img"
                           alt="Project Management System App"
                         />
@@ -119,7 +119,7 @@ const MyWork = () => {
                   <div className="work_box">
                     <div className="work_img_box">
                       <img
-                        src="./assets/img/weather_dashboard.png"
+                        src="/img/weather_dashboard.png"
                         className="card-img-top img-fluid work_img"
                         alt="Weather Dashboard App"
                       />
@@ -160,7 +160,7 @@ const MyWork = () => {
                   <div className="work_box">
                     <div className="work_img_box">
                       <img
-                        src="./assets/img/the_judo_quiz.png"
+                        src="/img/the_judo_quiz.png"
                         className="card-img-top img-fluid work_img"
                         alt="The Judo Quiz app"
                       />
@@ -207,7 +207,7 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
-                          src="./assets/img/password_generator.png"
+                          src="/img/password_generator.png"
                           className="card-img-top img-fluid work_img"
                           alt="Crypto & Cocktails App"
                         />
@@ -252,7 +252,7 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
-                          src="./assets/img/day_planner.png"
+                          src="/img/day_planner.png"
                           className="card-img-top img-fluid work_img"
                           alt="Crypto & Cocktails App"
                         />
