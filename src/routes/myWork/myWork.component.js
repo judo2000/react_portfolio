@@ -25,7 +25,7 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/project_management.png"
+                          src="./assets/img/project_management.png"
                           className="card-img-top img-fluid work_img"
                           alt="Project Management System App"
                         />
@@ -75,7 +75,7 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/gigabytes.png"
+                          src="./assets/img/gigabytes.png"
                           className="card-img-top img-fluid work_img"
                           alt="Project Management System App"
                         />
@@ -119,7 +119,7 @@ const MyWork = () => {
                   <div className="work_box">
                     <div className="work_img_box">
                       <img
-                        src="/img/weather_dashboard.png"
+                        src="./assets/img/weather_dashboard.png"
                         className="card-img-top img-fluid work_img"
                         alt="Weather Dashboard App"
                       />
@@ -137,7 +137,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://github.com/judo2000/week6_weather_dashboard"
+                          href="https://github.com/judo2000/weather_dashboard"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -146,7 +146,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://judo2000.github.io/week6_weather_dashboard/"
+                          href="https://judo2000.github.io/weather_dashboard/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -160,7 +160,7 @@ const MyWork = () => {
                   <div className="work_box">
                     <div className="work_img_box">
                       <img
-                        src="/img/the_judo_quiz.png"
+                        src="./assets/img/the_judo_quiz.png"
                         className="card-img-top img-fluid work_img"
                         alt="The Judo Quiz app"
                       />
@@ -178,7 +178,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://github.com/judo2000/week4-quiz"
+                          href="https://github.com/judo2000/Judo-Quiz"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -187,7 +187,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://judo2000.github.io/week4-quiz/"
+                          href="https://judo2000.github.io/Judo-Quiz/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -201,13 +201,13 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="https://judo2000.github.io/week3-password-generator/"
+                      href="https://judo2000.github.io/password-generator/"
                       target="_blank"
                       rel="noreferrer"
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/password_generator.png"
+                          src="./assets/img/password_generator.png"
                           className="card-img-top img-fluid work_img"
                           alt="Crypto & Cocktails App"
                         />
@@ -224,7 +224,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://github.com/judo2000/week3-password-generator"
+                          href="https://github.com/judo2000/password-generator"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -233,7 +233,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://judo2000.github.io/week3-password-generator/"
+                          href="https://judo2000.github.io/Password-Generator/"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -246,13 +246,13 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-lg-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="https://judo2000.github.io/week5_day_planner/"
+                      href="https://github.com/judo2000/day_planner"
                       target="_blank"
                       rel="noreferrer"
                     >
                       <div className="work_img_box">
                         <img
-                          src="/img/day_planner.png"
+                          src="./assets/img/day_planner.png"
                           className="card-img-top img-fluid work_img"
                           alt="Crypto & Cocktails App"
                         />
@@ -272,7 +272,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://github.com/judo2000/week5_day_planner"
+                          href="https://github.com/judo2000/day_planner"
                           target="_blank"
                           rel="noreferrer"
                         >
@@ -281,7 +281,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="https://judo2000.github.io/week5_day_planner/"
+                          href="https://judo2000.github.io/day_planner/"
                           target="_blank"
                           rel="noreferrer"
                         >
