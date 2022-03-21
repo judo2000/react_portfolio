@@ -213,7 +213,7 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="https://judo2000.github.io/password-generator/"
+                      href="https://judo2000.github.io/Password-Generator/"
                       target="_blank"
                       rel="noreferrer"
                     >
