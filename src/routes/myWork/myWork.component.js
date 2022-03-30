@@ -56,7 +56,7 @@ const MyWork = () => {
                       </p>
                       <p>
                         <a
-                          href="http://judo2000-pms.herokuapp.com/"
+                          href="https://judo2000-project-mgnt.herokuapp.com/"
                           target="_blank"
                           rel="noreferrer"
                         >
