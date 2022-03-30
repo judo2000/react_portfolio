@@ -1,5 +1,6 @@
 import { Outlet } from "react-router-dom";
 import "./aboutMe.styles.css";
+import Pdf from "../../components/resume/Stephen_Scott_Moore_resume.pdf";
 const AboutMe = () => {
   return (
     <div>
@@ -44,10 +45,7 @@ const AboutMe = () => {
                           </p>
                           <p>
                             <span className="title_small pe-3">My Resume:</span>
-                            <a
-                              href="/files/stephen_scott_moore_resume.pdf"
-                              target="_blank"
-                            >
+                            <a href={Pdf} target="_blank">
                               <i className="far fa-file-pdf fa-2x"></i>
                             </a>
                           </p>
@@ -58,7 +56,7 @@ const AboutMe = () => {
                       <h4>Technical Skills</h4>
                       HTML | CSS | Bootstrap | JavaScript | jQuery | Node | Git
                       <br />
-                      Express | Handlebars
+                      Express | Handlebars | React | Graphql
                     </div>
                   </div>
                   <div className="col-md-6">
