@@ -46,7 +46,6 @@ const AboutMe = () => {
                             <span className="title_small pe-3">My Resume:</span>
                             <a
                               href="/files/stephen_scott_moore_resume.pdf"
-                              download="Thalaiva"
                               target="_blank"
                             >
                               <i className="far fa-file-pdf fa-2x"></i>
