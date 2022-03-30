@@ -10,8 +10,10 @@ a {
   color: #e0e0e0;
 }
 
-footer,
-a:hover,
 a:visited {
   color: #e0e0e0;
+}
+
+a:hover {
+  color: gray;
 }

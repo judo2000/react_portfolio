@@ -5,7 +5,8 @@ import "./footer.style.css";
 const Footer = () => {
   return (
     <footer id="footer" className="footer text-center">
-      <Icons />@ 2022. All Rights Reserved
+      <Icons />
+      <br />@ 2022. All Rights Reserved
     </footer>
   );
 };

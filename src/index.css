@@ -33,10 +33,13 @@ hr {
   border-radius: 5px;
 }
 
-p a {
-  color: #777;
+p a:link {
+  color: #000000;
 }
 
-p a:hover a:visited {
-  color: #1e1e1e;
+p a:visited {
+  color: gray;
+}
+p a:hover {
+  color: #3a606e;
 }

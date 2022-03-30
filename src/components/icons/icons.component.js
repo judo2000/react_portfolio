@@ -1,6 +1,6 @@
 const Icons = () => {
   return (
-    <p className="text-dark">
+    <>
       <a
         href="https://www.linkedin.com/in/stephen-moore-ply-mcis-b94bab18/"
         target="_blank"
@@ -11,7 +11,7 @@ const Icons = () => {
       <a href="https://github.com/judo2000" target="_blank">
         <i className="fab fa-github fa-2x"></i>
       </a>
-    </p>
+    </>
   );
 };
 

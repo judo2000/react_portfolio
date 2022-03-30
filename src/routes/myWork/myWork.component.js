@@ -19,7 +19,7 @@ const MyWork = () => {
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
-                      href="http://judo2000-pms.herokuapp.com/"
+                      href="https://judo2000-project-mgnt.herokuapp.com/"
                       target="_blank"
                       rel="noreferrer"
                     >

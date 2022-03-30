@@ -52,9 +52,13 @@ const AboutMe = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="skills">
+                    <div className="skills pb-5">
                       <h4>Technical Skills</h4>
-                      HTML | CSS | Bootstrap | JavaScript | jQuery | Node | Git
+                      HTML | CSS | Bootstrap | JavaScript
+                      <br />
+                      React | Graphql | MySQL | Express
+                      <br />
+                      Node | Sequelize | jQuery | Git
                       <br />
                       Express | Handlebars | React | Graphql
                     </div>
@@ -81,7 +85,7 @@ const AboutMe = () => {
                       My other passion in life is judo. I have practiced judo
                       for just over 33 years. I hold the rank of 6th degree
                       black belt and am the head instructor along with my wife
-                      at
+                      at{" "}
                       <a
                         href="http://www.denverjudo.com"
                         target="_blank"
