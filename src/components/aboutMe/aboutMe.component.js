@@ -45,7 +45,7 @@ const AboutMe = () => {
                           </p>
                           <p>
                             <span className="title_small pe-3">My Resume:</span>
-                            <a href={Pdf} target="_blank">
+                            <a href={Pdf} target="_blank" rel="noreferrer">
                               <i className="far fa-file-pdf fa-2x"></i>
                             </a>
                           </p>
@@ -95,7 +95,7 @@ const AboutMe = () => {
                       </a>
                       . I am also a former World and Paralympic champion and
                       have been the head coach of the USA Paralympic Judo Team
-                      since 20010.
+                      since 2010.
                     </p>
                   </div>
                 </div>
