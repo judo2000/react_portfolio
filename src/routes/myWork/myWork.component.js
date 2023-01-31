@@ -25,6 +25,56 @@ const MyWork = () => {
                     >
                       <div className="work_img_box">
                         <img
+                          src="/img/amazona-home.png"
+                          className="card-img-top img-fluid work_img"
+                          alt="Amazona - Amazone Clone"
+                        />
+                      </div>
+                    </a>
+                    <div className="card-body">
+                      <span className="title_small">
+                        Amazona Ecommerce Site
+                      </span>
+                      <br />
+                      <span className="title_small_sub">
+                        Expressjs, MongoDB, React, CSS/Bootstrap, JavaScript
+                      </span>
+                      <p>
+                        This app allows user to add products for sale with
+                        product images stored on Cloudinary.com. Users can
+                        create accounts and purchase products using the PayPal
+                        API.
+                      </p>
+                      <p>
+                        <a
+                          href="https://github.com/judo2000/amazona-2"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Github Repository
+                        </a>
+                      </p>
+                      <p>
+                        <a
+                          href="https://mern-amazona2-judo2000.herokuapp.com/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Live Project
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
+                  <div className="work_box">
+                    <a
+                      href="https://judo2000.github.io/weather_dashboard/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <div className="work_img_box">
+                        <img
                           src="/img/weather_dashboard.png"
                           className="card-img-top img-fluid work_img"
                           alt="Weather Dashboard App"
