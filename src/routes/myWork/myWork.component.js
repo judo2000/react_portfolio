@@ -1,6 +1,6 @@
-import { Outlet } from 'react-router-dom';
+import { Outlet } from "react-router-dom";
 
-import './myWork.styles.css';
+import "./myWork.styles.css";
 
 const MyWork = () => {
   return (
@@ -16,6 +16,53 @@ const MyWork = () => {
           <div className="row">
             <div className="col-12">
               <div className="row justify-content-center">
+                <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
+                  <div className="work_box">
+                    <a
+                      href="https://matscout.com"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <div className="work_img_box">
+                        <img
+                          src="/img/matscout_screenshot.png"
+                          className="card-img-top img-fluid work_img"
+                          alt="Weather Dashboard App"
+                        />
+                      </div>
+                    </a>
+                    <div className="card-body">
+                      <span className="title_small">MatScout</span>
+                      <br />
+                      <span className="title_small_sub">
+                        HTML, Bootstrap, JavaScript, React, MongoDB
+                      </span>
+                      <p>
+                        This is a MERN application that allows coaches to create
+                        teams and add athletes. Coaches can create scouting
+                        reports for their athletes. Athletes can also create
+                        accounts and join/create teams and track and display
+                        match results. Teams and athlete profiles can be public
+                        or private.
+                      </p>
+                      <p>
+                        This project is currently under construction. I am
+                        hoping to have this project finished by the end of
+                        March, 2024.
+                      </p>
+                      <p>The repository is private</p>
+                      <p>
+                        <a
+                          href="https://matscout.com/"
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          Live Project
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
                 <div className="card col-sm-12 col-md-4 mx-md-4 my-4 py-1">
                   <div className="work_box">
                     <a
@@ -228,7 +275,7 @@ const MyWork = () => {
                         HTML, CSS/Bootstrap, JavaScript, jQuery
                       </span>
                       <p>
-                        {' '}
+                        {" "}
                         A JavaScript app that uses the moments.js API to display
                         the hours of the current day and uses local storage to
                         save a user's daily schedule.
