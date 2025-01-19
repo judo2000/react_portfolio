@@ -48,7 +48,7 @@ const MyWork = () => {
                       <p>
                         This project is currently under construction. I am
                         hoping to have this project finished by the end of
-                        March, 2024.
+                        March, 2025.
                       </p>
                       <p>The repository is private</p>
                       <p>
