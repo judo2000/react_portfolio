@@ -88,6 +88,8 @@ const MyWork = () => {
                       <span className="title_small_sub">
                         Expressjs, MongoDB, React, CSS/Bootstrap, JavaScript
                       </span>
+                      <br />
+                      <br />
                       <p>
                         This app allows user to add products for sale with
                         product images stored on Cloudinary.com. Users can
@@ -136,6 +138,8 @@ const MyWork = () => {
                       <span className="title_small_sub">
                         HTML, Bootstrap, JavaScript, jQuery
                       </span>
+                      <br />
+                      <br />
                       <p>
                         This app allows users to view a 5-day forecast using the
                         OpenWeatherMap api. The app also uses local storage to
@@ -183,6 +187,8 @@ const MyWork = () => {
                       <span className="title_small_sub">
                         HTML, CSS/Bootstrap, JavaScript, jQuery
                       </span>
+                      <br />
+                      <br />
                       <p>
                         A quiz app built with JavaScript that gives users a set
                         amount of time to answer questions and removes 10
@@ -229,6 +235,8 @@ const MyWork = () => {
                       <span className="title_small">Password Generator</span>
                       <br />
                       <span className="title_small_sub">HTML, JavaScript</span>
+                      <br />
+                      <br />
                       <p>
                         A JavaScript password generator that allows users to
                         pick characters types and length, then returns a random
@@ -276,8 +284,9 @@ const MyWork = () => {
                       <span className="title_small_sub">
                         HTML, CSS/Bootstrap, JavaScript, jQuery
                       </span>
+                      <br />
+                      <br />
                       <p>
-                        {" "}
                         A JavaScript app that uses the moments.js API to display
                         the hours of the current day and uses local storage to
                         save a user's daily schedule.
