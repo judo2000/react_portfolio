@@ -69,7 +69,11 @@ const Contact = () => {
               <div className="row">
                 <div className="col-sm-12 col-md-6">
                   <div className="title_small pb-2">Send Me a Message:</div>
-                  <form onSubmit={sendEmail} method="post" encType="text/plain">
+                  <form
+                    onSubmit={sendEmail}
+                    method="post"
+                    encType="text/plain"
+                  >
                     <div className="mb-3">
                       <label className="form-label">Name</label>
                       <input
@@ -119,7 +123,10 @@ const Contact = () => {
                         onChange={handleInputChange}
                       ></textarea>
                     </div>
-                    <button type="send" className="btn btn-primary">
+                    <button
+                      type="send"
+                      className="btn btn-primary"
+                    >
                       Submit
                     </button>
                   </form>
@@ -134,7 +141,7 @@ const Contact = () => {
                   </p>
                   <p className="text-dark">
                     <i className="fas fa-mobile-alt fa-lg pe-3"></i>
-                    720.500.2644
+                    303.591.9564
                   </p>
                   <Icons />
 

@@ -3,10 +3,15 @@ import Icons from "../icons/icons.component";
 import "./footer.style.css";
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear();
   return (
-    <footer id="footer" className="footer text-center">
+    <footer
+      id="footer"
+      className="footer text-center"
+    >
       <Icons />
-      <br />@ 2022. All Rights Reserved
+      <br />
+      &copy; {currentYear}. All Rights Reserved
     </footer>
   );
 };
