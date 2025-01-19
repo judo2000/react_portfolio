@@ -38,6 +38,7 @@ const MyWork = () => {
                         HTML, Bootstrap, JavaScript, React, MongoDB
                       </span>
                       <br />
+                      <br />
                       <p>
                         This is a MERN application that allows coaches to create
                         teams and add athletes. Coaches can create scouting
